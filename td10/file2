@@ -1,0 +1,2 @@
+bash: ./script.sh: Permission denied
+./script.sh: line 2: ech: command not found
