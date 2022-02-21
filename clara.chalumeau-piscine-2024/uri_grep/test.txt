@@ -1,0 +1,16 @@
+https://example.org/absolute/URI/with/absolute/path/to/resource.txt
+https://example.org/absolute/URI/with/absolute/path/to/resource
+http://example.org/test.truc/lol_bob.vlc?good=true?awesome=verytrue
+ftp://localhost:1337?acu=false?ing1=true
+mftp://localhost
+mftp://localhost:1337
+mftp://localhost:1337/test.txt
+mftp://localhost:1337/test
+myscheme7:
+file:/test/truc.txt
+file:/../../test/./truc.txt
+file:/././test/./truc.txt
+file/././test/./truc.txt
+/test.txt
+http://hello.txt?why.not>nope
+ftp://local:nope/test.txt/ah?good=false

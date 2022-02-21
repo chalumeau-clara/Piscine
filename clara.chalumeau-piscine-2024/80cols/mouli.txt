@@ -1,0 +1,1 @@
+This line is longer that 80 cols because it contains a \\n so you may consider it smaller than 80 cols

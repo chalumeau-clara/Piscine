@@ -1,0 +1,661 @@
+      2 
+      1 ./
+      1 $ dot -Tpng output.dot -o output.png
+      1 ./80cols.sh mouli.txt 
+      1 ./80cols.sh space.txt 
+      2 ./80cols.sh text.txt 
+      3 ./A
+      1 akemk
+      1 ./a.out
+    258 ./a.out 
+      1 ./a.out 4
+      1 ./a.out 6 
+      2 ascii
+      1 ascii -dh
+      1 cat decoded.txt | ./a.out
+      2 cat decoded.txt | ./a.out 
+      1 cat decoded.txt | ./a.out 6
+      1 cat decoded.txt | ./a.out 6 7
+      1 cat -e ex.csv
+      1 cat -e test.txt
+     18 cat fileGtree.dot 
+      1 cat mouli.txt
+      2 cat players.csv 
+      1 cat test
+      1 cat test | ./a.out 4
+      3 cat test | ./a.out 6
+      3 cat test | ./a.out 7
+      1 cat test | ./out 6
+      3 cat test.txt 
+      4 cat test.txt |cat -e
+      1 cd
+     90 cd ..
+      1 cd 80cols/
+      2 cd ascii_carousel/
+      4 cd bst/
+      1 cd clara.chalumeau-piscine-2024/
+      3 cd .config/
+      7 cd csv/
+      3 cd cut_csv/
+      1 cd dlist_advanced/
+     11 cd dlist_advanced/dlist_advanced/
+      4 cd dlist/dlist/
+      2 cd fifo/
+      2 cd general_tree_lcrs/
+      3 cd generic_void_list/
+      2 cd hash_map/
+      1 cd heap
+      1 cd heap/
+      2 cd hello_makefile/
+      1 cd hill_array/
+      1 cd i3/
+      2 cd int_sqrt/
+      3 cd int_vector_hill/
+      2 cd int_vector_vice_max/
+      4 cd lca/
+      1 cd my_chrono/
+      1 cd my_c_tail/
+     17 cd Piscine/clara.chalumeau-piscine-2024/
+      2 cd Piscine/clara.chalumeau-piscine-2024/seq/
+      1 cd rotx/
+      2 cd sed_trailing_whitespaces/
+      1 cd seq/
+      2 cd sieve_eratosthenes
+      4 cd sieve_eratosthenes/
+      7 cd sieve_eratosthenes_advanced/
+      1 cd test_a_bit/
+      2 cd variant/
+      1 cd vector/
+      3 cd vmax_ptr/
+      2 cd zigzag_matrix/
+      1 chmod =x
+      1 chmod +x seq.sh 
+      1 chmod +x tagg.sh 
+      1 chmod +x whitespaces.sed 
+      1 chmod +x with_cut.sh 
+      1 chmod +x with_sed.sh 
+      1 clang-format -i ascii_carousel/rot_x.c 
+      1 clang-format -i bst/bst.c
+      1 clang-format -i bst/bst_static.c 
+      1 clang-format -i csv/csv.c 
+      3 clang-format -i date_format/date_format.c
+      2 clang-format -i dlist_advanced/dlist_advanced/dlist_advanced.c
+      1 clang-format -i dlist_advanced/dlist_advanced/dlist_advanced.c 
+      1 clang-format -i dlist_advanced/dlist_advanced/dlist.c
+      1 clang-format -i dlist_advanced/dlist_advanced/dlist.h 
+      2 clang-format -i dlist/dlist/dlist.c
+      1 clang-format -i fifo/fifo/fifo.c
+      1 clang-format -i fifo/fifo/fifo.c 
+      1 clang-format -i file_basics_count_words/count_words.c 
+      1 clang-format -i generic_void_list/list.c
+      1 clang-format -i generic_void_list/main.c 
+      1 clang-format -i hash_map/hash_map.c
+      1 clang-format -i heap/add.c 
+      1 clang-format -i heap/create.c 
+      1 clang-format -i heap/del.c 
+      1 clang-format -i heap/pop.c 
+      1 clang-format -i heap/print.c 
+      1 clang-format -i heap_sort/heap_sort.c
+      1 clang-format -i int_sqrt/int_sqrt.c 
+      1 clang-format -i int_vector_vice_max/int_vector_vice_max.c
+      1 clang-format -i my_chrono/my_chrono.c 
+      1 clang-format -i my_c_tail/my_c_tail.c 
+      1 clang-format -i rotx/rotx.c 
+      1 clang-format -i selection_sort/selection_sort.c 
+      1 clang-format -i sieve_eratosthenes/sieve.c 
+      1 clang-format -i test_a_bit/is_set.c 
+      1 clang-format -i vector/vector.c 
+      1 clang-format -i zigzag_matrix/zigzag.c
+      4 compton &
+      1 cp test.txt testcp.txt 
+     16 ./csv ex.csv | cat -e
+      1 cut -d ";" -f 10 players.csv
+      1 cut -d ';' -f 10 players.csv 
+      1 cut -d ";" -f 10 players.csv --output-delimiter=" is "
+      1 cut -d ';' -f 1 players.csv | grep 
+      1 cut -d ';' -f 2,3 players.csv --output-delimiter=" is "
+      1 cut -d ';' -f 2,3 players.csv --output-delimiter=" is " | grep -n '' |grep "^10:"
+      2 cut -d ';' -f 2,3 players.csv --output-delimiter=" is " | head -10 | tail -1
+      1 cut -d ';' -f 3,4 players.csv --output-delimiter=" is "
+      1 cut -d ";" -s -f 10 players.csv --output-delimiter=" is "
+      1 cut -f 10 players.csv 
+      1 ./dlist_advanced/
+      1 ./dlist_advanced/dlist_advanced
+      2 dot -Tpng output.dot -o output.png
+      1 echo "$?"
+      4 echo $?
+      1 echo 's/ *$//' > whitespaces.sed
+      1 exit
+      2 feh output.png 
+      1 find /bin/sh -c compton
+      1 find /bin/sh compton
+      2 find compton
+      2 find compton.conf
+      1 find -name compton
+      2 find -name compton.conf
+      1 find -name ".sh"
+      1 find -name .sh
+      1 find ../ -name "*.sh"
+      1 find ../ -name ".sh"
+      1 find sh
+      1 gb
+      1 gcc main.c -Wall -Wextra -std=c99 -pedantic -g -fsanitize=address 
+      7 gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g 
+    285 gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+      1 gcc my_chrono.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+      2 gcc my_chrono.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address -D_XOPEN_SOURCE
+      1 gcc rotx.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address -D_XOPEN_SOURCE
+      6 gcc zigzag-example.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+      1 gd a.out 
+     24 gdb a.out 
+      1 gdb ./csv
+      1 gdb ./csv 
+      1 gdb ./csv ex.csv
+      1 git
+      1 git add 80cols/80cols.sh 
+      1 git add ascii_carousel/rot_x.c 
+      3 git add bit_rotation/bit.c 
+      1 git add bit_rotation/rol.c 
+      2 git add bst/bst.c 
+      3 git add bst/bst_static.c 
+      1 git add calloc_array/my_calloc.c
+      3 git add csv/csv.c 
+      1 git add csv/Makefile 
+      1 git add cut_csv/*
+      1 git add date_format/date_format.c 
+      3 git add dlist_advanced/dlist_advanced/dlist_advanced.c
+      2 git add dlist_advanced/dlist_advanced/dlist_advanced.c 
+      2 git add dlist_advanced/dlist_advanced/dlist.c
+      1 git add dlist_advanced/dlist_advanced/dlist.C
+      1 git add dlist_advanced/dlist_advanced/dlist.h 
+      3 git add dlist_advanced/Makefile 
+      3 git add dlist/dlist/dlist.c
+      3 git add fifo/fifo/fifo.c 
+      2 git add file_basics_count_words/count_words.c 
+      1 git add general_tree_lcrs/gtree.c 
+      1 git add general_tree_lcrs/serialize.c
+      1 git add generic_void_list/list.c
+      1 git add hash_map/hash_map1.h 
+      2 git add hash_map/hash_map.c
+      1 git add heap/add.c 
+      1 git add heap/create.c 
+      1 git add heap/del.c 
+      1 git add heap/Makefile 
+      1 git add heap/pop.c 
+      1 git add heap/print.c 
+      1 git add heap_sort/heap_sort.c 
+      1 git add hello_makefile/Makefile 
+      1 git add int_sqrt/int_sqrt.c 
+      1 git add int_vector_hill/int_vector_hill.c 
+      1 git add int_vector_vice_max/int_vector_vice_max.c 
+      1 git add my_chrono/my_chrono.c 
+      1 git add my_c_tail/my_c_tail.c 
+      1 git add rotx/rotx.c 
+      2 git add sed_trailing_whitespaces/whitespaces.sed 
+      1 git add selection_sort/selection_sort.c
+      2 git add seq/seq.sh 
+      2 git add sieve_eratosthenes_advanced/Makefile 
+      3 git add sieve_eratosthenes_advanced/sieve.c
+      4 git add sieve_eratosthenes_advanced/sieve.c 
+      1 git add sieve_eratosthenes/Makefile 
+      1 git add sieve_eratosthenes/sieve.c
+      1 git add sieve_eratosthenes/sieve.c 
+      1 git add test_a_bit/is_set.c 
+      1 git add variant.c 
+      1 git add vector/Makefile 
+      1 git add vector/vector.c 
+      1 git add vmax_ptr/vmax_ptr.c 
+      1 git add zigzag_matrix/zigzag.c
+      1 gi tag |grep fifo
+      1 gi tag |rep 
+      1 git diff dlist/dlist/dlist.c
+      1 git diff generic_void_list/main.c generic_void_list/main.c
+      1 git diff main.c
+      1 git diff sieve.c
+      1 git history
+      7 git log
+      1 git log|grep -C 5 fifo
+      1 git log|grep fifo
+      1 git log |grep sieve_eratosthenes_advanced
+      1 git log |grep sieve_eratosthenes_advanced.c
+      1 git log -p bst
+      1 git log -p dlist_advanced/dlist_advanced/dlist_advanced.c
+      1 git log -p dlist/dlist/dlist.c
+      1 git log -p general_tree_lcrs/serialize.c
+      1 git log -p heap/add.c
+      1 git log -p heap/pop.c
+      1 git log -p sieve.c
+      2 git log -p sieve_eratosthenes_advanced/sieve.c
+      5 git push
+     24 git push --tags
+      1 git remove hash_map/hash_map.h
+      1 git rm hash_map/hash_map.h
+     15 git status
+      1 git status |grep bst
+      1 git status | grep date
+      1 git status |grep dlist
+      2 git status |grep heap
+      4 git tag
+      1 git tag -a "exercises-alphabet-v1" -m "ex"
+      1 git tag -a "exercises-alphabet-v2" -m "ex"
+      1 git tag -a "exercises-alphabet-v3" -m "ex"
+      1 git tag -a "exercises-run_length_encoding-v5" -m "try to tag"
+      1 git tag |ascii
+      1 git tag -d exercises-seq-v1
+      1 git tag |grep asc
+      1 git tag | grep ascii
+      2 git tag |grep ascii
+      1 git tag |grep call
+      1 git tag |grep chrono
+      1 git tag|grep date
+      2 git tag |grep dlist
+      1 git tag |grep erast
+      2 git tag |grep fifo
+      1 git tag |grep heap
+      1 git tag |grep hill
+      1 git tag |grep make
+      1 git tag |grep selection
+      1 git tag |grep sieve
+      1 git tag |grep sqrt
+      1 git tag |grep tail
+      1 git tag |grep vice
+      1 git tag |grep vmax
+      1 git tag |grep zig
+      1 git tag | uniq
+      1 grep -f 80cols.grep test.txt
+      2 grep -f -c test.txt
+      1 grep -fc test.txt
+      1 gti add bst/bst_static.c 
+      1 i3lock-fancy
+      2 i3lock-fancy 
+      1 i3-msg reload
+      1 ifconfig
+      1 ipconfig
+      1 kill 15805
+      1 kill 15809
+      1 kill 1862
+      1 kill 1864
+      1 kill 27416
+      1 kill 6632
+      2 kill compton
+     30 l
+      1 l*
+     10 ll
+     12 ls
+      1 ls dlist_advanced/dlist_advanced/
+     42 make
+      1 make all
+      5 make clean
+      1 make GREETING="Hey!"
+      1 make hello
+      1 make hello GREETING="Greetings"
+      1 man 1 ascii 
+      1 man 1 grep
+      1 man 1 head
+      1 man 2 ascii
+      1 man 3 ascii
+      1 man 4 ascii
+      5 man ascii
+      3 man atoi
+      1 man calloc
+      1 man cut
+      1 man fclose
+      1 man feh
+      1 man feh |grep -C 5 fehbg 
+      1 man feh |grep fehbg
+      2 man fgetc
+      1 man find
+      2 man fopen
+      4 man getline
+      4 man grep
+      1 man grep|grep A
+      1 man grep|grep EA
+      1 man puts
+      1 man read
+      3 man sed
+      1 man sed|grep regex
+      1 man ssize_t
+      1 man strdup
+      1 man strndup
+      1 man strtok
+      3 man test
+      2 man wc
+      1 mkcd 80cols_grep
+      1 mkcd cut_csv
+      1 mkcd file_basics_count_words/
+      1 mkcd sed_trailing_whitespaces
+      1 mkcd seq
+      1 mv bit_rotation/bit.c bit_rotation/rol.c
+      1 mv compton.conf compton2.conf 
+      1 mv hash_map1.h hash_map.h
+      1 mv hash_map.h hash_map1.h
+      1 netflix
+      1 ping
+      1 ps aux
+      1 ps aux |grep compt
+      1 ps aux |grep comptn
+      3 ps aux |grep compton
+      1 pwd
+      2 q
+      1 redshift -b 0.8
+      1 reload
+      1 rm a.out 
+      1 rm compton.conf 
+      2 rm .dlist.c.swp 
+      1 rm sieve.o
+      6 sed -i -Ef whitespaces.sed test.txt
+      1 sed -i -Ef whitespaces.sed test.txt 
+      1 sed -n 10 players.csv 
+      1 sed -n 10p players.csv 
+      1 sed -n 10p players.csv | sed -r '/[a-zA-Z0-9];/d'
+      1 sed -n 10p players.csv | sed -r '/[A-z];/d'
+      1 sed -n 10p players.csv | sed -r '[A-z];//d'
+      1 sed -n 10p players.csv | sed -r '[A-z];/d'
+      1 sed -n 10p players.csv | sed -r 's/[^;]*;\([^;]*\).*/\1/'
+      1 sed -n 10p players.csv | sed -r 's/[^;]*;\[^;]*\.*/\1/'
+      1 sed -n 10p players.csv | sed -r 's/[^;]*;\([^;]*\).*/\2/'
+      1 sed -n 10p players.csv | sed -r 's/[A-z];//d'
+      1 sed -n 10p players.csv | sed -r 's/.*;./d'
+      1 sed -n 10p players.csv | sed -r 's/.*;.*;.*;.*;/&/g'
+      1 sed -n 10p players.csv | sed -r 's/.*;.*;.*;.*;/_&_/g'
+      1 sed -n 10p players.csv | sed -r 's/*;/G/g'
+      1 sed -n 10p players.csv | sed -r 's/.*;.*;.*;.*;/G/g'
+      1 sed -n 10p players.csv | sed -r 's/.*;/G/g'
+      1 sed -n 10p players.csv | sed -r 's/?*;/G/g'
+      1 sed -n 10p players.csv | sed 's/[^;]*;\([^;]*\)*/\1/'
+      1 sed -n 10p players.csv | sed 's/[^;]*;\([^;]*\).*/\1/'
+      1 sed -n 10p players.csv | sed 's/[^;]*;\[^;]*\.*/\1/'
+      1 sed -n 10p players.csv | sed 's/[^;]*;\([^;]*\)*;\([^;])*\.*/\1 is \2/'
+      1 sed -n 10p players.csv | sed 's/[^;]*;\([^;]*\)*;\([^;]*\).*/\1 is \2/'
+      1 sed -n 10p players.csv | sed 's/[^;]*;\([^;]*\).*/\2/'
+      1 sed -n 10p players.csv | sed 's/*;*;*;*;//g'
+      1 sed -n 10p players.csv | sed 's/*;*;*;*;/g'
+      1 sed -n 10p players.csv | sed 's/H/G/g'
+      1 sed -n 10p players.csv | sed 's/*;*;*;*;/& is &/g
+      1 sed -n 10p players.csv | sed 's/*;*;*;*;/& is &/g'
+      1 sed -n 4,7 players.csv 
+      1 sed -n 4,7/p players.csv 
+      1 sed -n 4,7p players.csv 
+      1 ./seq.sh 10 3 23
+      6 ./seq.sh 1 -1 1
+      2 ./seq.sh 3 2 1
+      2 ./seq.sh 42 -1 42
+      2 ./seq.sh 42 -2 40
+      1 sudo apt install ascii
+      1 sudo apt remove ascii
+      3 ./tagg.sh 
+      2 ./tagg.sh exercises-add_int_ptr-v1
+      1 ./tagg.sh exercises-alphabet-v1
+      1 ./tagg.sh exercises-array_max_min-v1
+      1 ./tagg.sh exercises-ascii_carousel-v1
+      1 ./tagg.sh exercises-ascii_carousel-v5
+      1 ./tagg.sh exercises-assignment_operator-v1
+      1 ./tagg.sh exercises-binary_search_ptr-v1
+      1 ./tagg.sh exercises-binary_search-v1
+      1 ./tagg.sh exercises-bit_rotation-v1
+      1 ./tagg.sh exercises-bst-v1
+      1 ./tagg.sh exercises-bst-v3
+      1 ./tagg.sh exercises-bubble_sort-v1
+      1 ./tagg.sh exercises-calloc_array-v1
+      1 ./tagg.sh exercises-calloc_array-v4
+      1 ./tagg.sh exercises-calloc_array-v4"
+      1 ./tagg.sh exercises-check_alphabet-v1
+      1 ./tagg.sh exercises-connect4-v1
+      1 ./tagg.sh exercises-date_format-v1
+      1 ./tagg.sh exercises-date_format-v5
+      1 ./tagg.sh exercises-digit-v1
+      1 ./tagg.sh exercises-display_square-v1
+      1 ./tagg.sh exercises-dlist_advanced-v1
+      1 ./tagg.sh exercises-dlist_advanced-v11
+      1 ./tagg.sh exercises-dlist_advanced-v6
+      1 ./tagg.sh exercises-dlist_advanced-v7
+      1 ./tagg.sh exercises-dlist-v1
+      1 ./tagg.sh exercises-element_count-v1
+      1 ./tagg.sh exercises-fact-v1
+      1 ./tagg.sh exercises-fibo_iter-v1
+      1 ./tagg.sh exercises-fibo-v1
+      1 ./tagg.sh exercises-fifo-v1
+      1 ./tagg.sh exercises-fifo-v6
+      1 ./tagg.sh exercises-file_basics_append_file-v1
+      1 ./tagg.sh exercises-freq_analysis-v1
+      1 ./tagg.sh exercises-general_tree_lcrs-v1
+      1 ./tagg.sh exercises-general_tree_lcrs-v3
+      1 ./tagg.sh exercises-generic_void_list-v1
+      1 ./tagg.sh exercises-grade-v1
+      1 ./tagg.sh exercises-handling_complex-v1
+      1 ./tagg.sh exercises-hanoi-v1
+      1 ./tagg.sh exercises-heap_sort-v1
+      1 ./tagg.sh exercises-heap-v1
+      1 ./tagg.sh exercises-heap-v3
+      1 ./tagg.sh exercises-heap-v4
+      1 ./tagg.sh exercises-hello_friends-v1
+      1 ./tagg.sh exercises-hello_makefile-v1
+      1 ./tagg.sh exercises-hello_makefile-v4
+      1 ./tagg.sh exercises-hello_world-v1
+      1 ./tagg.sh exercises-hill_array-v1
+      1 ./tagg.sh exercises-hill_array-v7
+      1 ./tagg.sh exercises-hill_array-v8
+      1 ./tagg.sh exercises-int_mats_mult-v1
+      1 ./tagg.sh exercises-int_palindrome-v1
+      1 ./tagg.sh exercises-int_sqrt-v1
+      1 ./tagg.sh exercises-int_vector_bubble_sort-v1
+      1 ./tagg.sh exercises-int_vector_hill-v1
+      1 ./tagg.sh exercises-int_vector_hill-v5
+      1 ./tagg.sh exercises-int_vector_insert_sort-v1
+      1 ./tagg.sh exercises-int_vector_max-v1
+      1 ./tagg.sh exercises-int_vector_print-v1
+      1 ./tagg.sh exercises-int_vector_vice_max-v1
+      1 ./tagg.sh exercises-int_vector_vice_max-v5
+      1 ./tagg.sh exercises-lakes-v1
+      1 ./tagg.sh exercises-lca-v1
+      1 ./tagg.sh exercises-levenshtein-v1
+      1 ./tagg.sh exercises-lookup_table-v1
+      1 ./tagg.sh exercises-my_abs-v1
+      1 ./tagg.sh exercises-my_atoi_base-v1
+      1 ./tagg.sh exercises-my_atoi-v1
+      1 ./tagg.sh exercises-my_chrono-v1
+      1 ./tagg.sh exercises-my_c_tail-v1
+      1 ./tagg.sh exercises-my_itoa_base-v1
+      1 ./tagg.sh exercises-my_itoa-v1
+      1 ./tagg.sh exercises-my_memcmp-v1
+      1 ./tagg.sh exercises-my_pow-v1
+      1 ./tagg.sh exercises-my_round-v1
+      1 ./tagg.sh exercises-my_strcasecmp-v1
+      1 ./tagg.sh exercises-my_strcmp-v1
+      1 ./tagg.sh exercises-my_strcpy-v1
+      1 ./tagg.sh exercises-my_strlen-v2
+      1 ./tagg.sh exercises-my_strlowcase-v1
+      1 ./tagg.sh exercises-my_strspn-v1
+      1 ./tagg.sh exercises-my_strstr-v1
+      1 ./tagg.sh exercises-my_strtok_r-v1
+      1 ./tagg.sh exercises-null_terminated_arrays-v1
+      1 ./tagg.sh exercises-palindrome-v1
+      1 ./tagg.sh exercises-pi_generator-v1
+      1 ./tagg.sh exercises-pine-v1
+      1 ./tagg.sh exercises-pointer_swap-v1
+      1 ./tagg.sh exercises-quick_sort-v1
+      1 ./tagg.sh exercises-repeat-v2
+      1 ./tagg.sh exercises-rotx-v3
+      1 ./tagg.sh exercises-run_length_encoding-v1
+      1 ./tagg.sh exercises-selection_sort-v1
+      1 ./tagg.sh exercises-selection_sort-v3
+      1 ./tagg.sh exercises-seq-v2
+      1 ./tagg.sh exercises-seven_int-v1
+      1 ./tagg.sh exercises-sieve_eratosthenes_advanced-v1
+      1 ./tagg.sh exercises-sieve_eratosthenes_advanced-v2
+      1 ./tagg.sh exercises-sieve_eratosthenes_advanced-v4
+      1 ./tagg.sh exercises-sieve_eratosthenes_advanced-v6
+      1 ./tagg.sh exercises-sieve_eratosthenes_advanced-v7
+      1 ./tagg.sh exercises-sieve_eratosthenes_advanced-v8
+      1 ./tagg.sh exercises-sieve_eratosthenes-v1
+      1 ./tagg.sh exercises-sieve_eratosthenes-v4
+      1 ./tagg.sh exercises-stack-v1
+      1 ./tagg.sh exercises-string_replace-v1
+      1 ./tagg.sh exercises-str_revert-v1
+      1 ./tagg.sh exercises-test_a_bit-v1
+      1 ./tagg.sh exercises-tower-v1
+      1 ./tagg.sh exercises-variant-v1
+      1 ./tagg.sh exercises-vector-v1
+      1 ./tagg.sh exercises-vigenere-v1
+      1 ./tagg.sh exercises-vmax_ptr-v1
+      1 ./tagg.sh exercises-vmax_ptr-v2
+      1 ./tagg.sh exercises-zigzag_matrix-v1
+      1 ./tagg.sh exercises-zigzag_matrix-v4
+      1 ./tig.sh "ascii change" "exercises-ascii_carousel-v3"
+      2 ./tig.sh "ascii change" "exercises-ascii_carousel-v4"
+      1 ./tig.sh "bit rotation" "exercises-bit_rotation-v2"
+      1 ./tig.sh "bit rot" "exercises-bit_rotation-v3"
+      1 ./tig.sh "bst" "exercises-bst-v2"
+      1 ./tig.sh "chrono" "exercises-my_chrono-v2"
+      1 ./tig.sh "col" "exercises-80cols-v1"
+      1 ./tig.sh "count word" "exercises-file_basics_count_words-v1"
+      1 ./tig.sh "csv" "exercises-csv-v1"
+      2 ./tig.sh "csv" "exercises-csv-v2"
+      1 ./tig.sh "csv" "exercises-csv-v3"
+      1 ./tig.sh "c tail" "exercises-my_c_tail-v2"
+      1 ./tig.sh "cut csv" "exercises-cut_csv-v1"
+      1 ./tig.sh "dlist ad shift" "exercises-dlist_advanced-v12"
+      1 ./tig.sh "dlist advanced" "exercises-dlist_advanced-v9"
+      1 ./tig.sh "dlist advan" "exercises-dlist_advanced-v5"
+      1 ./tig.sh "dlist advan" "exercises-dlist_advanced-v6"
+      1 ./tig.sh "dlist adv" "exercises-dlist_advanced-v10"
+      1 ./tig.sh "dlist" "exercises-dlist_advanced-v8"
+      1 ./tig.sh "dlist" "exercises-dlist-v3"
+      1 ./tig.sh "dlist" "exercises-dlist-v4"
+      2 ./tig.sh "fifo" "exercises-fifo-v4"
+      1 ./tig.sh "fifo" "exercises-fifo-v5"
+      2 ./tig.sh "format date" "exercises-date_format-v4"
+      1 ./tig.sh "general tree" "exercises-general_tree_lcrs-v1"
+      1 ./tig.sh "general tree" "exercises-general_tree_lcrs-v3"
+      1 ./tig.sh "generic void list" "exercises-generic_void_list-v2"
+      1 ./tig.sh "hash map" "exercises-hash_map-v5"
+      1 ./tig.sh "heap" "exercises-heap-v2"
+      1 ./tig.sh "heap sort" "exercises-heap_sort-v2"
+      2 ./tig.sh "hill" "exercises-hill_array-v5"
+      1 ./tig.sh "hill" "exercises-hill_array-v6"
+      1 ./tig.sh "rotx" "exercises-rotx-v4"
+      1 ./tig.sh "sed whitespace" "exercises-sed_trailing_whitespaces-v1"
+      1 ./tig.sh "sed whitespace" "exercises-sed_trailing_whitespaces-v2"
+      2 ./tig.sh "seq" "exercises-seq-v1"
+      1 ./tig.sh "sieve ad" "exercises-sieve_eratosthenes_advanced-v3"
+      1 ./tig.sh "sieve" "exercises-sieve_eratosthenes_advanced-v5"
+      1 ./tig.sh "sieve" "exercises-sieve_eratosthenes-v5"
+      1 ./tig.sh "sqrt" "exercises-int_sqrt-v4"
+      1 ./tig.sh "test aa bit" "exercises-test_a_bit-v2"
+      1 ./tig.sh "variant" "exercises-variant-v2"
+      1 ./tig.sh "vector" "exercises-vector-v2"
+      1 vim 
+      1 vim 80cols/
+      1 vim 80cols.grep
+      3 vim 80cols.sh 
+      3 vim add.c 
+      1 vim .bashrc 
+      2 vim bit_rotation/bit.c 
+      1 vim bst.
+      3 vim bst.c
+      1 vim bst.c 
+      5 vim bst_static.c
+      1 vim bst_static.c 
+      1 vim bst_static.h
+      1 vim compton
+      3 vim compton.conf
+      4 vim compton.conf 
+      1 vim config 
+      1 vim copy_save/copy_save.sh 
+      5 vim count_words.c
+      1 vim csv.
+     14 vim csv.c
+      9 vim csv.c 
+      1 vim csv/csv.c
+      1 vim csv/Makefile 
+      4 vim date_format/date_format.c
+      1 vim dlist.
+      8 vim dlist_advanced.c 
+      1 vim dlist_advanced/dlist_advanced/dlist_advanced.c 
+      1 vim dlist_advanced/dlist_advanced/dlist.c
+     15 vim dlist.c
+      1 vim dlist.C
+      1 vim dlist/dlist/dlist.c 
+      1 vim ex.csv
+      4 vim ex.csv 
+      2 vim .fehbg 
+      6 vim fifo.c
+      1 vim fifo/fifo/fifo.c
+      1 vim file_basics_append_file/append_file.c 
+      1 vim generic_void_list/list.c
+      2 vim gtree.c
+      1 vim gtree.c 
+      1 vim gtree.h 
+      1 vim hash.c
+      1 vim hash.c 
+      1 vim hash_map1.h 
+      4 vim hash_map.c
+      2 vim hash_map.h
+      1 vim hill_array.c 
+      1 vim i3/config 
+      5 vim int_sqrt.c 
+      1 vim int_sqrt/int_sqrt.c 
+      1 vim int_vector_hill.c
+      2 vim int_vector_hill.c 
+      3 vim int_vector_vice_max.c
+      1 vim int_vector_vice_max.c 
+      1 vim int_vector_vice_max/int_vector_vice_max.c
+      2 vim is_set.c 
+      2 vim lca.c
+      1 vim lca.h
+      1 vim list.
+      1 vim list.c
+      1 vim list.h
+      6 vim main.c
+    147 vim main.c 
+     15 vim Makefile 
+      1 vim mouli.txt
+      3 vim my_chrono.c 
+      1 vim my_c_tail/
+      5 vim my_c_tail.c 
+      1 vim players.csv
+      4 vim players.csv 
+      1 vim pop.c 
+      1 vim print.c 
+      4 vim rot_x.c 
+      4 vim rotx.c 
+      1 vim seq/seq.sh 
+      1 vim seq.sh
+      4 vim seq.sh 
+      1 vim serialize.c
+      1 vim sieve.c
+      8 vim sieve.c 
+      2 vim sieve_eratosthenes_advanced/Makefile 
+      3 vim sieve_eratosthenes_advanced/sieve.c 
+      1 vim space.csv
+      1 vim space.txt
+      3 vim tagg.sh
+      1 vim tagg.sh 
+      1 vim test_a_bit/
+      2 vim test_a_bit/main.c 
+      3 vim test.txt
+      4 vim test.txt 
+      1 vim tig.sh 
+      1 vim tower/tower.sh 
+      1 vim variant.
+      3 vim variant.c
+      1 vim variant/variant.c
+      1 vim vector/Makefile 
+      1 vim .vimrc 
+      2 vim vmax_ptr.c 
+      3 vim whitespaces.sed
+      4 vim whitespaces.sed 
+      1 vim with_cut.sh
+      5 vim with_cut.sh 
+      1 vim with_sed.sh
+      5 vim with_sed.sh 
+      2 vim zigzag.c
+      2 vim zigzag-example.c 
+      1 ./whitespaces.sed test.txt 
+      1 ./with_cut.sh 10 players.csv 
+      1 ./with_cut.sh 1 space.csv 
+      5 ./with_cut.sh players.csv 10
+      1 ./with_cut.sh players.csv 10 |cat -e
+      1 ./with_cut.sh space.csv 1
+      4 ./with_sed.sh players.csv 10
+      1 ./zigzag 

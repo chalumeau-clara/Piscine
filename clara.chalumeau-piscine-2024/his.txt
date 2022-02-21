@@ -1,0 +1,2000 @@
+
+
+./
+$ dot -Tpng output.dot -o output.png
+./80cols.sh mouli.txt 
+./80cols.sh space.txt 
+./80cols.sh text.txt 
+./80cols.sh text.txt 
+./A
+./A
+./A
+akemk
+./a.out
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 
+./a.out 4
+./a.out 6 
+ascii
+ascii
+ascii -dh
+cat decoded.txt | ./a.out
+cat decoded.txt | ./a.out 
+cat decoded.txt | ./a.out 
+cat decoded.txt | ./a.out 6
+cat decoded.txt | ./a.out 6 7
+cat -e ex.csv
+cat -e test.txt
+cat fileGtree.dot 
+cat fileGtree.dot 
+cat fileGtree.dot 
+cat fileGtree.dot 
+cat fileGtree.dot 
+cat fileGtree.dot 
+cat fileGtree.dot 
+cat fileGtree.dot 
+cat fileGtree.dot 
+cat fileGtree.dot 
+cat fileGtree.dot 
+cat fileGtree.dot 
+cat fileGtree.dot 
+cat fileGtree.dot 
+cat fileGtree.dot 
+cat fileGtree.dot 
+cat fileGtree.dot 
+cat fileGtree.dot 
+cat mouli.txt
+cat players.csv 
+cat players.csv 
+cat test
+cat test | ./a.out 4
+cat test | ./a.out 6
+cat test | ./a.out 6
+cat test | ./a.out 6
+cat test | ./a.out 7
+cat test | ./a.out 7
+cat test | ./a.out 7
+cat test | ./out 6
+cat test.txt 
+cat test.txt 
+cat test.txt 
+cat test.txt |cat -e
+cat test.txt |cat -e
+cat test.txt |cat -e
+cat test.txt |cat -e
+cd
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd 80cols/
+cd ascii_carousel/
+cd ascii_carousel/
+cd bst/
+cd bst/
+cd bst/
+cd bst/
+cd clara.chalumeau-piscine-2024/
+cd .config/
+cd .config/
+cd .config/
+cd csv/
+cd csv/
+cd csv/
+cd csv/
+cd csv/
+cd csv/
+cd csv/
+cd cut_csv/
+cd cut_csv/
+cd cut_csv/
+cd dlist_advanced/
+cd dlist_advanced/dlist_advanced/
+cd dlist_advanced/dlist_advanced/
+cd dlist_advanced/dlist_advanced/
+cd dlist_advanced/dlist_advanced/
+cd dlist_advanced/dlist_advanced/
+cd dlist_advanced/dlist_advanced/
+cd dlist_advanced/dlist_advanced/
+cd dlist_advanced/dlist_advanced/
+cd dlist_advanced/dlist_advanced/
+cd dlist_advanced/dlist_advanced/
+cd dlist_advanced/dlist_advanced/
+cd dlist/dlist/
+cd dlist/dlist/
+cd dlist/dlist/
+cd dlist/dlist/
+cd fifo/
+cd fifo/
+cd general_tree_lcrs/
+cd general_tree_lcrs/
+cd generic_void_list/
+cd generic_void_list/
+cd generic_void_list/
+cd hash_map/
+cd hash_map/
+cd heap
+cd heap/
+cd hello_makefile/
+cd hello_makefile/
+cd hill_array/
+cd i3/
+cd int_sqrt/
+cd int_sqrt/
+cd int_vector_hill/
+cd int_vector_hill/
+cd int_vector_hill/
+cd int_vector_vice_max/
+cd int_vector_vice_max/
+cd lca/
+cd lca/
+cd lca/
+cd lca/
+cd my_chrono/
+cd my_c_tail/
+cd Piscine/clara.chalumeau-piscine-2024/
+cd Piscine/clara.chalumeau-piscine-2024/
+cd Piscine/clara.chalumeau-piscine-2024/
+cd Piscine/clara.chalumeau-piscine-2024/
+cd Piscine/clara.chalumeau-piscine-2024/
+cd Piscine/clara.chalumeau-piscine-2024/
+cd Piscine/clara.chalumeau-piscine-2024/
+cd Piscine/clara.chalumeau-piscine-2024/
+cd Piscine/clara.chalumeau-piscine-2024/
+cd Piscine/clara.chalumeau-piscine-2024/
+cd Piscine/clara.chalumeau-piscine-2024/
+cd Piscine/clara.chalumeau-piscine-2024/
+cd Piscine/clara.chalumeau-piscine-2024/
+cd Piscine/clara.chalumeau-piscine-2024/
+cd Piscine/clara.chalumeau-piscine-2024/
+cd Piscine/clara.chalumeau-piscine-2024/
+cd Piscine/clara.chalumeau-piscine-2024/
+cd Piscine/clara.chalumeau-piscine-2024/seq/
+cd Piscine/clara.chalumeau-piscine-2024/seq/
+cd rotx/
+cd sed_trailing_whitespaces/
+cd sed_trailing_whitespaces/
+cd seq/
+cd sieve_eratosthenes
+cd sieve_eratosthenes
+cd sieve_eratosthenes/
+cd sieve_eratosthenes/
+cd sieve_eratosthenes/
+cd sieve_eratosthenes/
+cd sieve_eratosthenes_advanced/
+cd sieve_eratosthenes_advanced/
+cd sieve_eratosthenes_advanced/
+cd sieve_eratosthenes_advanced/
+cd sieve_eratosthenes_advanced/
+cd sieve_eratosthenes_advanced/
+cd sieve_eratosthenes_advanced/
+cd test_a_bit/
+cd variant/
+cd variant/
+cd vector/
+cd vmax_ptr/
+cd vmax_ptr/
+cd vmax_ptr/
+cd zigzag_matrix/
+cd zigzag_matrix/
+chmod =x
+chmod +x seq.sh 
+chmod +x tagg.sh 
+chmod +x whitespaces.sed 
+chmod +x with_cut.sh 
+chmod +x with_sed.sh 
+clang-format -i ascii_carousel/rot_x.c 
+clang-format -i bst/bst.c
+clang-format -i bst/bst_static.c 
+clang-format -i csv/csv.c 
+clang-format -i date_format/date_format.c
+clang-format -i date_format/date_format.c
+clang-format -i date_format/date_format.c
+clang-format -i dlist_advanced/dlist_advanced/dlist_advanced.c
+clang-format -i dlist_advanced/dlist_advanced/dlist_advanced.c
+clang-format -i dlist_advanced/dlist_advanced/dlist_advanced.c 
+clang-format -i dlist_advanced/dlist_advanced/dlist.c
+clang-format -i dlist_advanced/dlist_advanced/dlist.h 
+clang-format -i dlist/dlist/dlist.c
+clang-format -i dlist/dlist/dlist.c
+clang-format -i fifo/fifo/fifo.c
+clang-format -i fifo/fifo/fifo.c 
+clang-format -i file_basics_count_words/count_words.c 
+clang-format -i generic_void_list/list.c
+clang-format -i generic_void_list/main.c 
+clang-format -i hash_map/hash_map.c
+clang-format -i heap/add.c 
+clang-format -i heap/create.c 
+clang-format -i heap/del.c 
+clang-format -i heap/pop.c 
+clang-format -i heap/print.c 
+clang-format -i heap_sort/heap_sort.c
+clang-format -i int_sqrt/int_sqrt.c 
+clang-format -i int_vector_vice_max/int_vector_vice_max.c
+clang-format -i my_chrono/my_chrono.c 
+clang-format -i my_c_tail/my_c_tail.c 
+clang-format -i rotx/rotx.c 
+clang-format -i selection_sort/selection_sort.c 
+clang-format -i sieve_eratosthenes/sieve.c 
+clang-format -i test_a_bit/is_set.c 
+clang-format -i vector/vector.c 
+clang-format -i zigzag_matrix/zigzag.c
+compton &
+compton &
+compton &
+compton &
+cp test.txt testcp.txt 
+./csv ex.csv | cat -e
+./csv ex.csv | cat -e
+./csv ex.csv | cat -e
+./csv ex.csv | cat -e
+./csv ex.csv | cat -e
+./csv ex.csv | cat -e
+./csv ex.csv | cat -e
+./csv ex.csv | cat -e
+./csv ex.csv | cat -e
+./csv ex.csv | cat -e
+./csv ex.csv | cat -e
+./csv ex.csv | cat -e
+./csv ex.csv | cat -e
+./csv ex.csv | cat -e
+./csv ex.csv | cat -e
+./csv ex.csv | cat -e
+cut -d ";" -f 10 players.csv
+cut -d ';' -f 10 players.csv 
+cut -d ";" -f 10 players.csv --output-delimiter=" is "
+cut -d ';' -f 1 players.csv | grep 
+cut -d ';' -f 2,3 players.csv --output-delimiter=" is "
+cut -d ';' -f 2,3 players.csv --output-delimiter=" is " | grep -n '' |grep "^10:"
+cut -d ';' -f 2,3 players.csv --output-delimiter=" is " | head -10 | tail -1
+cut -d ';' -f 2,3 players.csv --output-delimiter=" is " | head -10 | tail -1
+cut -d ';' -f 3,4 players.csv --output-delimiter=" is "
+cut -d ";" -s -f 10 players.csv --output-delimiter=" is "
+cut -f 10 players.csv 
+./dlist_advanced/
+./dlist_advanced/dlist_advanced
+dot -Tpng output.dot -o output.png
+dot -Tpng output.dot -o output.png
+echo "$?"
+echo $?
+echo $?
+echo $?
+echo $?
+echo 's/ *$//' > whitespaces.sed
+exit
+feh output.png 
+feh output.png 
+find /bin/sh -c compton
+find /bin/sh compton
+find compton
+find compton
+find compton.conf
+find compton.conf
+find -name compton
+find -name compton.conf
+find -name compton.conf
+find -name ".sh"
+find -name .sh
+find ../ -name "*.sh"
+find ../ -name ".sh"
+find sh
+gb
+gcc main.c -Wall -Wextra -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc main.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc my_chrono.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc my_chrono.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address -D_XOPEN_SOURCE
+gcc my_chrono.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address -D_XOPEN_SOURCE
+gcc rotx.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address -D_XOPEN_SOURCE
+gcc zigzag-example.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc zigzag-example.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc zigzag-example.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc zigzag-example.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc zigzag-example.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gcc zigzag-example.c -Wall -Wextra -Werror -std=c99 -pedantic -g -fsanitize=address 
+gd a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb a.out 
+gdb ./csv
+gdb ./csv 
+gdb ./csv ex.csv
+git
+git add 80cols/80cols.sh 
+git add ascii_carousel/rot_x.c 
+git add bit_rotation/bit.c 
+git add bit_rotation/bit.c 
+git add bit_rotation/bit.c 
+git add bit_rotation/rol.c 
+git add bst/bst.c 
+git add bst/bst.c 
+git add bst/bst_static.c 
+git add bst/bst_static.c 
+git add bst/bst_static.c 
+git add calloc_array/my_calloc.c
+git add csv/csv.c 
+git add csv/csv.c 
+git add csv/csv.c 
+git add csv/Makefile 
+git add cut_csv/*
+git add date_format/date_format.c 
+git add dlist_advanced/dlist_advanced/dlist_advanced.c
+git add dlist_advanced/dlist_advanced/dlist_advanced.c
+git add dlist_advanced/dlist_advanced/dlist_advanced.c
+git add dlist_advanced/dlist_advanced/dlist_advanced.c 
+git add dlist_advanced/dlist_advanced/dlist_advanced.c 
+git add dlist_advanced/dlist_advanced/dlist.c
+git add dlist_advanced/dlist_advanced/dlist.c
+git add dlist_advanced/dlist_advanced/dlist.C
+git add dlist_advanced/dlist_advanced/dlist.h 
+git add dlist_advanced/Makefile 
+git add dlist_advanced/Makefile 
+git add dlist_advanced/Makefile 
+git add dlist/dlist/dlist.c
+git add dlist/dlist/dlist.c
+git add dlist/dlist/dlist.c
+git add fifo/fifo/fifo.c 
+git add fifo/fifo/fifo.c 
+git add fifo/fifo/fifo.c 
+git add file_basics_count_words/count_words.c 
+git add file_basics_count_words/count_words.c 
+git add general_tree_lcrs/gtree.c 
+git add general_tree_lcrs/serialize.c
+git add generic_void_list/list.c
+git add hash_map/hash_map1.h 
+git add hash_map/hash_map.c
+git add hash_map/hash_map.c
+git add heap/add.c 
+git add heap/create.c 
+git add heap/del.c 
+git add heap/Makefile 
+git add heap/pop.c 
+git add heap/print.c 
+git add heap_sort/heap_sort.c 
+git add hello_makefile/Makefile 
+git add int_sqrt/int_sqrt.c 
+git add int_vector_hill/int_vector_hill.c 
+git add int_vector_vice_max/int_vector_vice_max.c 
+git add my_chrono/my_chrono.c 
+git add my_c_tail/my_c_tail.c 
+git add rotx/rotx.c 
+git add sed_trailing_whitespaces/whitespaces.sed 
+git add sed_trailing_whitespaces/whitespaces.sed 
+git add selection_sort/selection_sort.c
+git add seq/seq.sh 
+git add seq/seq.sh 
+git add sieve_eratosthenes_advanced/Makefile 
+git add sieve_eratosthenes_advanced/Makefile 
+git add sieve_eratosthenes_advanced/sieve.c
+git add sieve_eratosthenes_advanced/sieve.c
+git add sieve_eratosthenes_advanced/sieve.c
+git add sieve_eratosthenes_advanced/sieve.c 
+git add sieve_eratosthenes_advanced/sieve.c 
+git add sieve_eratosthenes_advanced/sieve.c 
+git add sieve_eratosthenes_advanced/sieve.c 
+git add sieve_eratosthenes/Makefile 
+git add sieve_eratosthenes/sieve.c
+git add sieve_eratosthenes/sieve.c 
+git add test_a_bit/is_set.c 
+git add variant.c 
+git add vector/Makefile 
+git add vector/vector.c 
+git add vmax_ptr/vmax_ptr.c 
+git add zigzag_matrix/zigzag.c
+gi tag |grep fifo
+gi tag |rep 
+git diff dlist/dlist/dlist.c
+git diff generic_void_list/main.c generic_void_list/main.c
+git diff main.c
+git diff sieve.c
+git history
+git log
+git log
+git log
+git log
+git log
+git log
+git log
+git log|grep -C 5 fifo
+git log|grep fifo
+git log |grep sieve_eratosthenes_advanced
+git log |grep sieve_eratosthenes_advanced.c
+git log -p bst
+git log -p dlist_advanced/dlist_advanced/dlist_advanced.c
+git log -p dlist/dlist/dlist.c
+git log -p general_tree_lcrs/serialize.c
+git log -p heap/add.c
+git log -p heap/pop.c
+git log -p sieve.c
+git log -p sieve_eratosthenes_advanced/sieve.c
+git log -p sieve_eratosthenes_advanced/sieve.c
+git push
+git push
+git push
+git push
+git push
+git push --tags
+git push --tags
+git push --tags
+git push --tags
+git push --tags
+git push --tags
+git push --tags
+git push --tags
+git push --tags
+git push --tags
+git push --tags
+git push --tags
+git push --tags
+git push --tags
+git push --tags
+git push --tags
+git push --tags
+git push --tags
+git push --tags
+git push --tags
+git push --tags
+git push --tags
+git push --tags
+git push --tags
+git remove hash_map/hash_map.h
+git rm hash_map/hash_map.h
+git status
+git status
+git status
+git status
+git status
+git status
+git status
+git status
+git status
+git status
+git status
+git status
+git status
+git status
+git status
+git status |grep bst
+git status | grep date
+git status |grep dlist
+git status |grep heap
+git status |grep heap
+git tag
+git tag
+git tag
+git tag
+git tag -a "exercises-alphabet-v1" -m "ex"
+git tag -a "exercises-alphabet-v2" -m "ex"
+git tag -a "exercises-alphabet-v3" -m "ex"
+git tag -a "exercises-run_length_encoding-v5" -m "try to tag"
+git tag |ascii
+git tag -d exercises-seq-v1
+git tag |grep asc
+git tag | grep ascii
+git tag |grep ascii
+git tag |grep ascii
+git tag |grep call
+git tag |grep chrono
+git tag|grep date
+git tag |grep dlist
+git tag |grep dlist
+git tag |grep erast
+git tag |grep fifo
+git tag |grep fifo
+git tag |grep heap
+git tag |grep hill
+git tag |grep make
+git tag |grep selection
+git tag |grep sieve
+git tag |grep sqrt
+git tag |grep tail
+git tag |grep vice
+git tag |grep vmax
+git tag |grep zig
+git tag | uniq
+grep -f 80cols.grep test.txt
+grep -f -c test.txt
+grep -f -c test.txt
+grep -fc test.txt
+gti add bst/bst_static.c 
+i3lock-fancy
+i3lock-fancy 
+i3lock-fancy 
+i3-msg reload
+ifconfig
+ipconfig
+kill 15805
+kill 15809
+kill 1862
+kill 1864
+kill 27416
+kill 6632
+kill compton
+kill compton
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l*
+ll
+ll
+ll
+ll
+ll
+ll
+ll
+ll
+ll
+ll
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls dlist_advanced/dlist_advanced/
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make all
+make clean
+make clean
+make clean
+make clean
+make clean
+make GREETING="Hey!"
+make hello
+make hello GREETING="Greetings"
+man 1 ascii 
+man 1 grep
+man 1 head
+man 2 ascii
+man 3 ascii
+man 4 ascii
+man ascii
+man ascii
+man ascii
+man ascii
+man ascii
+man atoi
+man atoi
+man atoi
+man calloc
+man cut
+man fclose
+man feh
+man feh |grep -C 5 fehbg 
+man feh |grep fehbg
+man fgetc
+man fgetc
+man find
+man fopen
+man fopen
+man getline
+man getline
+man getline
+man getline
+man grep
+man grep
+man grep
+man grep
+man grep|grep A
+man grep|grep EA
+man puts
+man read
+man sed
+man sed
+man sed
+man sed|grep regex
+man ssize_t
+man strdup
+man strndup
+man strtok
+man test
+man test
+man test
+man wc
+man wc
+mkcd 80cols_grep
+mkcd cut_csv
+mkcd file_basics_count_words/
+mkcd sed_trailing_whitespaces
+mkcd seq
+mv bit_rotation/bit.c bit_rotation/rol.c
+mv compton.conf compton2.conf 
+mv hash_map1.h hash_map.h
+mv hash_map.h hash_map1.h
+netflix
+ping
+ps aux
+ps aux |grep compt
+ps aux |grep comptn
+ps aux |grep compton
+ps aux |grep compton
+ps aux |grep compton
+pwd
+q
+q
+redshift -b 0.8
+reload
+rm a.out 
+rm compton.conf 
+rm .dlist.c.swp 
+rm .dlist.c.swp 
+rm sieve.o
+sed -i -Ef whitespaces.sed test.txt
+sed -i -Ef whitespaces.sed test.txt
+sed -i -Ef whitespaces.sed test.txt
+sed -i -Ef whitespaces.sed test.txt
+sed -i -Ef whitespaces.sed test.txt
+sed -i -Ef whitespaces.sed test.txt
+sed -i -Ef whitespaces.sed test.txt 
+sed -n 10 players.csv 
+sed -n 10p players.csv 
+sed -n 10p players.csv | sed -r '/[a-zA-Z0-9];/d'
+sed -n 10p players.csv | sed -r '/[A-z];/d'
+sed -n 10p players.csv | sed -r '[A-z];//d'
+sed -n 10p players.csv | sed -r '[A-z];/d'
+sed -n 10p players.csv | sed -r 's/[^;]*;\([^;]*\).*/\1/'
+sed -n 10p players.csv | sed -r 's/[^;]*;\[^;]*\.*/\1/'
+sed -n 10p players.csv | sed -r 's/[^;]*;\([^;]*\).*/\2/'
+sed -n 10p players.csv | sed -r 's/[A-z];//d'
+sed -n 10p players.csv | sed -r 's/.*;./d'
+sed -n 10p players.csv | sed -r 's/.*;.*;.*;.*;/&/g'
+sed -n 10p players.csv | sed -r 's/.*;.*;.*;.*;/_&_/g'
+sed -n 10p players.csv | sed -r 's/*;/G/g'
+sed -n 10p players.csv | sed -r 's/.*;.*;.*;.*;/G/g'
+sed -n 10p players.csv | sed -r 's/.*;/G/g'
+sed -n 10p players.csv | sed -r 's/?*;/G/g'
+sed -n 10p players.csv | sed 's/[^;]*;\([^;]*\)*/\1/'
+sed -n 10p players.csv | sed 's/[^;]*;\([^;]*\).*/\1/'
+sed -n 10p players.csv | sed 's/[^;]*;\[^;]*\.*/\1/'
+sed -n 10p players.csv | sed 's/[^;]*;\([^;]*\)*;\([^;])*\.*/\1 is \2/'
+sed -n 10p players.csv | sed 's/[^;]*;\([^;]*\)*;\([^;]*\).*/\1 is \2/'
+sed -n 10p players.csv | sed 's/[^;]*;\([^;]*\).*/\2/'
+sed -n 10p players.csv | sed 's/*;*;*;*;//g'
+sed -n 10p players.csv | sed 's/*;*;*;*;/g'
+sed -n 10p players.csv | sed 's/H/G/g'
+sed -n 10p players.csv | sed 's/*;*;*;*;/& is &/g
+sed -n 10p players.csv | sed 's/*;*;*;*;/& is &/g'
+sed -n 4,7 players.csv 
+sed -n 4,7/p players.csv 
+sed -n 4,7p players.csv 
+./seq.sh 10 3 23
+./seq.sh 1 -1 1
+./seq.sh 1 -1 1
+./seq.sh 1 -1 1
+./seq.sh 1 -1 1
+./seq.sh 1 -1 1
+./seq.sh 1 -1 1
+./seq.sh 3 2 1
+./seq.sh 3 2 1
+./seq.sh 42 -1 42
+./seq.sh 42 -1 42
+./seq.sh 42 -2 40
+./seq.sh 42 -2 40
+sudo apt install ascii
+sudo apt remove ascii
+./tagg.sh 
+./tagg.sh 
+./tagg.sh 
+./tagg.sh exercises-add_int_ptr-v1
+./tagg.sh exercises-add_int_ptr-v1
+./tagg.sh exercises-alphabet-v1
+./tagg.sh exercises-array_max_min-v1
+./tagg.sh exercises-ascii_carousel-v1
+./tagg.sh exercises-ascii_carousel-v5
+./tagg.sh exercises-assignment_operator-v1
+./tagg.sh exercises-binary_search_ptr-v1
+./tagg.sh exercises-binary_search-v1
+./tagg.sh exercises-bit_rotation-v1
+./tagg.sh exercises-bst-v1
+./tagg.sh exercises-bst-v3
+./tagg.sh exercises-bubble_sort-v1
+./tagg.sh exercises-calloc_array-v1
+./tagg.sh exercises-calloc_array-v4
+./tagg.sh exercises-calloc_array-v4"
+./tagg.sh exercises-check_alphabet-v1
+./tagg.sh exercises-connect4-v1
+./tagg.sh exercises-date_format-v1
+./tagg.sh exercises-date_format-v5
+./tagg.sh exercises-digit-v1
+./tagg.sh exercises-display_square-v1
+./tagg.sh exercises-dlist_advanced-v1
+./tagg.sh exercises-dlist_advanced-v11
+./tagg.sh exercises-dlist_advanced-v6
+./tagg.sh exercises-dlist_advanced-v7
+./tagg.sh exercises-dlist-v1
+./tagg.sh exercises-element_count-v1
+./tagg.sh exercises-fact-v1
+./tagg.sh exercises-fibo_iter-v1
+./tagg.sh exercises-fibo-v1
+./tagg.sh exercises-fifo-v1
+./tagg.sh exercises-fifo-v6
+./tagg.sh exercises-file_basics_append_file-v1
+./tagg.sh exercises-freq_analysis-v1
+./tagg.sh exercises-general_tree_lcrs-v1
+./tagg.sh exercises-general_tree_lcrs-v3
+./tagg.sh exercises-generic_void_list-v1
+./tagg.sh exercises-grade-v1
+./tagg.sh exercises-handling_complex-v1
+./tagg.sh exercises-hanoi-v1
+./tagg.sh exercises-heap_sort-v1
+./tagg.sh exercises-heap-v1
+./tagg.sh exercises-heap-v3
+./tagg.sh exercises-heap-v4
+./tagg.sh exercises-hello_friends-v1
+./tagg.sh exercises-hello_makefile-v1
+./tagg.sh exercises-hello_makefile-v4
+./tagg.sh exercises-hello_world-v1
+./tagg.sh exercises-hill_array-v1
+./tagg.sh exercises-hill_array-v7
+./tagg.sh exercises-hill_array-v8
+./tagg.sh exercises-int_mats_mult-v1
+./tagg.sh exercises-int_palindrome-v1
+./tagg.sh exercises-int_sqrt-v1
+./tagg.sh exercises-int_vector_bubble_sort-v1
+./tagg.sh exercises-int_vector_hill-v1
+./tagg.sh exercises-int_vector_hill-v5
+./tagg.sh exercises-int_vector_insert_sort-v1
+./tagg.sh exercises-int_vector_max-v1
+./tagg.sh exercises-int_vector_print-v1
+./tagg.sh exercises-int_vector_vice_max-v1
+./tagg.sh exercises-int_vector_vice_max-v5
+./tagg.sh exercises-lakes-v1
+./tagg.sh exercises-lca-v1
+./tagg.sh exercises-levenshtein-v1
+./tagg.sh exercises-lookup_table-v1
+./tagg.sh exercises-my_abs-v1
+./tagg.sh exercises-my_atoi_base-v1
+./tagg.sh exercises-my_atoi-v1
+./tagg.sh exercises-my_chrono-v1
+./tagg.sh exercises-my_c_tail-v1
+./tagg.sh exercises-my_itoa_base-v1
+./tagg.sh exercises-my_itoa-v1
+./tagg.sh exercises-my_memcmp-v1
+./tagg.sh exercises-my_pow-v1
+./tagg.sh exercises-my_round-v1
+./tagg.sh exercises-my_strcasecmp-v1
+./tagg.sh exercises-my_strcmp-v1
+./tagg.sh exercises-my_strcpy-v1
+./tagg.sh exercises-my_strlen-v2
+./tagg.sh exercises-my_strlowcase-v1
+./tagg.sh exercises-my_strspn-v1
+./tagg.sh exercises-my_strstr-v1
+./tagg.sh exercises-my_strtok_r-v1
+./tagg.sh exercises-null_terminated_arrays-v1
+./tagg.sh exercises-palindrome-v1
+./tagg.sh exercises-pi_generator-v1
+./tagg.sh exercises-pine-v1
+./tagg.sh exercises-pointer_swap-v1
+./tagg.sh exercises-quick_sort-v1
+./tagg.sh exercises-repeat-v2
+./tagg.sh exercises-rotx-v3
+./tagg.sh exercises-run_length_encoding-v1
+./tagg.sh exercises-selection_sort-v1
+./tagg.sh exercises-selection_sort-v3
+./tagg.sh exercises-seq-v2
+./tagg.sh exercises-seven_int-v1
+./tagg.sh exercises-sieve_eratosthenes_advanced-v1
+./tagg.sh exercises-sieve_eratosthenes_advanced-v2
+./tagg.sh exercises-sieve_eratosthenes_advanced-v4
+./tagg.sh exercises-sieve_eratosthenes_advanced-v6
+./tagg.sh exercises-sieve_eratosthenes_advanced-v7
+./tagg.sh exercises-sieve_eratosthenes_advanced-v8
+./tagg.sh exercises-sieve_eratosthenes-v1
+./tagg.sh exercises-sieve_eratosthenes-v4
+./tagg.sh exercises-stack-v1
+./tagg.sh exercises-string_replace-v1
+./tagg.sh exercises-str_revert-v1
+./tagg.sh exercises-test_a_bit-v1
+./tagg.sh exercises-tower-v1
+./tagg.sh exercises-variant-v1
+./tagg.sh exercises-vector-v1
+./tagg.sh exercises-vigenere-v1
+./tagg.sh exercises-vmax_ptr-v1
+./tagg.sh exercises-vmax_ptr-v2
+./tagg.sh exercises-zigzag_matrix-v1
+./tagg.sh exercises-zigzag_matrix-v4
+./tig.sh "ascii change" "exercises-ascii_carousel-v3"
+./tig.sh "ascii change" "exercises-ascii_carousel-v4"
+./tig.sh "ascii change" "exercises-ascii_carousel-v4"
+./tig.sh "bit rotation" "exercises-bit_rotation-v2"
+./tig.sh "bit rot" "exercises-bit_rotation-v3"
+./tig.sh "bst" "exercises-bst-v2"
+./tig.sh "chrono" "exercises-my_chrono-v2"
+./tig.sh "col" "exercises-80cols-v1"
+./tig.sh "count word" "exercises-file_basics_count_words-v1"
+./tig.sh "csv" "exercises-csv-v1"
+./tig.sh "csv" "exercises-csv-v2"
+./tig.sh "csv" "exercises-csv-v2"
+./tig.sh "csv" "exercises-csv-v3"
+./tig.sh "c tail" "exercises-my_c_tail-v2"
+./tig.sh "cut csv" "exercises-cut_csv-v1"
+./tig.sh "dlist ad shift" "exercises-dlist_advanced-v12"
+./tig.sh "dlist advanced" "exercises-dlist_advanced-v9"
+./tig.sh "dlist advan" "exercises-dlist_advanced-v5"
+./tig.sh "dlist advan" "exercises-dlist_advanced-v6"
+./tig.sh "dlist adv" "exercises-dlist_advanced-v10"
+./tig.sh "dlist" "exercises-dlist_advanced-v8"
+./tig.sh "dlist" "exercises-dlist-v3"
+./tig.sh "dlist" "exercises-dlist-v4"
+./tig.sh "fifo" "exercises-fifo-v4"
+./tig.sh "fifo" "exercises-fifo-v4"
+./tig.sh "fifo" "exercises-fifo-v5"
+./tig.sh "format date" "exercises-date_format-v4"
+./tig.sh "format date" "exercises-date_format-v4"
+./tig.sh "general tree" "exercises-general_tree_lcrs-v1"
+./tig.sh "general tree" "exercises-general_tree_lcrs-v3"
+./tig.sh "generic void list" "exercises-generic_void_list-v2"
+./tig.sh "hash map" "exercises-hash_map-v5"
+./tig.sh "heap" "exercises-heap-v2"
+./tig.sh "heap sort" "exercises-heap_sort-v2"
+./tig.sh "hill" "exercises-hill_array-v5"
+./tig.sh "hill" "exercises-hill_array-v5"
+./tig.sh "hill" "exercises-hill_array-v6"
+./tig.sh "rotx" "exercises-rotx-v4"
+./tig.sh "sed whitespace" "exercises-sed_trailing_whitespaces-v1"
+./tig.sh "sed whitespace" "exercises-sed_trailing_whitespaces-v2"
+./tig.sh "seq" "exercises-seq-v1"
+./tig.sh "seq" "exercises-seq-v1"
+./tig.sh "sieve ad" "exercises-sieve_eratosthenes_advanced-v3"
+./tig.sh "sieve" "exercises-sieve_eratosthenes_advanced-v5"
+./tig.sh "sieve" "exercises-sieve_eratosthenes-v5"
+./tig.sh "sqrt" "exercises-int_sqrt-v4"
+./tig.sh "test aa bit" "exercises-test_a_bit-v2"
+./tig.sh "variant" "exercises-variant-v2"
+./tig.sh "vector" "exercises-vector-v2"
+vim 
+vim 80cols/
+vim 80cols.grep
+vim 80cols.sh 
+vim 80cols.sh 
+vim 80cols.sh 
+vim add.c 
+vim add.c 
+vim add.c 
+vim .bashrc 
+vim bit_rotation/bit.c 
+vim bit_rotation/bit.c 
+vim bst.
+vim bst.c
+vim bst.c
+vim bst.c
+vim bst.c 
+vim bst_static.c
+vim bst_static.c
+vim bst_static.c
+vim bst_static.c
+vim bst_static.c
+vim bst_static.c 
+vim bst_static.h
+vim compton
+vim compton.conf
+vim compton.conf
+vim compton.conf
+vim compton.conf 
+vim compton.conf 
+vim compton.conf 
+vim compton.conf 
+vim config 
+vim copy_save/copy_save.sh 
+vim count_words.c
+vim count_words.c
+vim count_words.c
+vim count_words.c
+vim count_words.c
+vim csv.
+vim csv.c
+vim csv.c
+vim csv.c
+vim csv.c
+vim csv.c
+vim csv.c
+vim csv.c
+vim csv.c
+vim csv.c
+vim csv.c
+vim csv.c
+vim csv.c
+vim csv.c
+vim csv.c
+vim csv.c 
+vim csv.c 
+vim csv.c 
+vim csv.c 
+vim csv.c 
+vim csv.c 
+vim csv.c 
+vim csv.c 
+vim csv.c 
+vim csv/csv.c
+vim csv/Makefile 
+vim date_format/date_format.c
+vim date_format/date_format.c
+vim date_format/date_format.c
+vim date_format/date_format.c
+vim dlist.
+vim dlist_advanced.c 
+vim dlist_advanced.c 
+vim dlist_advanced.c 
+vim dlist_advanced.c 
+vim dlist_advanced.c 
+vim dlist_advanced.c 
+vim dlist_advanced.c 
+vim dlist_advanced.c 
+vim dlist_advanced/dlist_advanced/dlist_advanced.c 
+vim dlist_advanced/dlist_advanced/dlist.c
+vim dlist.c
+vim dlist.c
+vim dlist.c
+vim dlist.c
+vim dlist.c
+vim dlist.c
+vim dlist.c
+vim dlist.c
+vim dlist.c
+vim dlist.c
+vim dlist.c
+vim dlist.c
+vim dlist.c
+vim dlist.c
+vim dlist.c
+vim dlist.C
+vim dlist/dlist/dlist.c 
+vim ex.csv
+vim ex.csv 
+vim ex.csv 
+vim ex.csv 
+vim ex.csv 
+vim .fehbg 
+vim .fehbg 
+vim fifo.c
+vim fifo.c
+vim fifo.c
+vim fifo.c
+vim fifo.c
+vim fifo.c
+vim fifo/fifo/fifo.c
+vim file_basics_append_file/append_file.c 
+vim generic_void_list/list.c
+vim gtree.c
+vim gtree.c
+vim gtree.c 
+vim gtree.h 
+vim hash.c
+vim hash.c 
+vim hash_map1.h 
+vim hash_map.c
+vim hash_map.c
+vim hash_map.c
+vim hash_map.c
+vim hash_map.h
+vim hash_map.h
+vim hill_array.c 
+vim i3/config 
+vim int_sqrt.c 
+vim int_sqrt.c 
+vim int_sqrt.c 
+vim int_sqrt.c 
+vim int_sqrt.c 
+vim int_sqrt/int_sqrt.c 
+vim int_vector_hill.c
+vim int_vector_hill.c 
+vim int_vector_hill.c 
+vim int_vector_vice_max.c
+vim int_vector_vice_max.c
+vim int_vector_vice_max.c
+vim int_vector_vice_max.c 
+vim int_vector_vice_max/int_vector_vice_max.c
+vim is_set.c 
+vim is_set.c 
+vim lca.c
+vim lca.c
+vim lca.h
+vim list.
+vim list.c
+vim list.h
+vim main.c
+vim main.c
+vim main.c
+vim main.c
+vim main.c
+vim main.c
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim main.c 
+vim Makefile 
+vim Makefile 
+vim Makefile 
+vim Makefile 
+vim Makefile 
+vim Makefile 
+vim Makefile 
+vim Makefile 
+vim Makefile 
+vim Makefile 
+vim Makefile 
+vim Makefile 
+vim Makefile 
+vim Makefile 
+vim Makefile 
+vim mouli.txt
+vim my_chrono.c 
+vim my_chrono.c 
+vim my_chrono.c 
+vim my_c_tail/
+vim my_c_tail.c 
+vim my_c_tail.c 
+vim my_c_tail.c 
+vim my_c_tail.c 
+vim my_c_tail.c 
+vim players.csv
+vim players.csv 
+vim players.csv 
+vim players.csv 
+vim players.csv 
+vim pop.c 
+vim print.c 
+vim rot_x.c 
+vim rot_x.c 
+vim rot_x.c 
+vim rot_x.c 
+vim rotx.c 
+vim rotx.c 
+vim rotx.c 
+vim rotx.c 
+vim seq/seq.sh 
+vim seq.sh
+vim seq.sh 
+vim seq.sh 
+vim seq.sh 
+vim seq.sh 
+vim serialize.c
+vim sieve.c
+vim sieve.c 
+vim sieve.c 
+vim sieve.c 
+vim sieve.c 
+vim sieve.c 
+vim sieve.c 
+vim sieve.c 
+vim sieve.c 
+vim sieve_eratosthenes_advanced/Makefile 
+vim sieve_eratosthenes_advanced/Makefile 
+vim sieve_eratosthenes_advanced/sieve.c 
+vim sieve_eratosthenes_advanced/sieve.c 
+vim sieve_eratosthenes_advanced/sieve.c 
+vim space.csv
+vim space.txt
+vim tagg.sh
+vim tagg.sh
+vim tagg.sh
+vim tagg.sh 
+vim test_a_bit/
+vim test_a_bit/main.c 
+vim test_a_bit/main.c 
+vim test.txt
+vim test.txt
+vim test.txt
+vim test.txt 
+vim test.txt 
+vim test.txt 
+vim test.txt 
+vim tig.sh 
+vim tower/tower.sh 
+vim variant.
+vim variant.c
+vim variant.c
+vim variant.c
+vim variant/variant.c
+vim vector/Makefile 
+vim .vimrc 
+vim vmax_ptr.c 
+vim vmax_ptr.c 
+vim whitespaces.sed
+vim whitespaces.sed
+vim whitespaces.sed
+vim whitespaces.sed 
+vim whitespaces.sed 
+vim whitespaces.sed 
+vim whitespaces.sed 
+vim with_cut.sh
+vim with_cut.sh 
+vim with_cut.sh 
+vim with_cut.sh 
+vim with_cut.sh 
+vim with_cut.sh 
+vim with_sed.sh
+vim with_sed.sh 
+vim with_sed.sh 
+vim with_sed.sh 
+vim with_sed.sh 
+vim with_sed.sh 
+vim zigzag.c
+vim zigzag.c
+vim zigzag-example.c 
+vim zigzag-example.c 
+./whitespaces.sed test.txt 
+./with_cut.sh 10 players.csv 
+./with_cut.sh 1 space.csv 
+./with_cut.sh players.csv 10
+./with_cut.sh players.csv 10
+./with_cut.sh players.csv 10
+./with_cut.sh players.csv 10
+./with_cut.sh players.csv 10
+./with_cut.sh players.csv 10 |cat -e
+./with_cut.sh space.csv 1
+./with_sed.sh players.csv 10
+./with_sed.sh players.csv 10
+./with_sed.sh players.csv 10
+./with_sed.sh players.csv 10
+./zigzag 
